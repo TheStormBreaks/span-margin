@@ -1,4 +1,4 @@
-#	Write this (src/...)	Compiling it produces (out/...)
+
 1	model/Contract.java	com/nse/span/model/Contract.class
 com/nse/span/model/Contract$Type.class
 2	parser/SpnParser.java	com/nse/span/parser/SpnParser.class
